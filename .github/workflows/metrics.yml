@@ -21,7 +21,12 @@ jobs:
           template: classic
           base: header, activity, repositories, metadata
           base_indepth: yes
+          base_hireable: yes
           config_timezone: Asia/Singapore
+          
+          # This plugin is often more robust for total volume across all repos
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
           
           # Lines of Code Plugin
           plugin_lines: yes
