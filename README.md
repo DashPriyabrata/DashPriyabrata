@@ -13,6 +13,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</p>
+<p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DashPriyabrata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DashPriyabrata&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </p>
