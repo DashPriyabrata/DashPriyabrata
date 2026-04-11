@@ -6,7 +6,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DashPriyabrata&theme=tokyo-night&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DashPriyabrata&theme=tokyo-night&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
