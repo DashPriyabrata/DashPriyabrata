@@ -20,14 +20,17 @@ jobs:
           user: DashPriyabrata
           template: classic
           base: header, activity, repositories, metadata
+          base_indepth: yes
           config_timezone: Asia/Singapore
           
           # Lines of Code Plugin
           plugin_lines: yes
           plugin_lines_sections: base
-          plugin_lines_delay: 30
+          plugin_lines_delay: 60
+          
+          # Ensure order (Forces lines to the top section)
+          config_order: base.header, base.activity, base.repositories, lines, base.metadata
           
           # DISABLE EVERYTHING ELSE (to keep it clean)
           plugin_notable: no
-          plugin_community: no
           plugin_languages: no
