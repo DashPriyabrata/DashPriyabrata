@@ -6,15 +6,15 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DashPriyabrata&theme=tokyo-night&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy-nu.vercel.app/?username=DashPriyabrata&theme=tokyo-night&no-frame=true&margin-w=8)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DashPriyabrata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DashPriyabrata&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DashPriyabrata&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DashPriyabrata&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
 </p>
 
 ---
