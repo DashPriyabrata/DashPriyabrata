@@ -27,7 +27,7 @@ jobs:
           plugin_lines_sections: base
           
           # Notable Contributions (Shows your PRs/Issues)
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_from: all
           
           # Languages Plugin

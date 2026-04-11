@@ -1,8 +1,0 @@
-      - name: Make Code Badge
-        uses: shadowmoose/GHA-LoC-Badge@1.0.0
-        id: badge
-        with:
-          debug: true
-          directory: ./
-          badge: ./badge.svg
-          ignore: 'node_modules'
