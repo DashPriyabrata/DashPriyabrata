@@ -28,13 +28,11 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
           
-          # Lines of Code Plugin
-          plugin_lines: yes
-          plugin_lines_sections: base
-          plugin_lines_delay: 60
+          # Lines plugin disabled: failing on null author metadata in upstream action
+          plugin_lines: no
           
           # Ensure order (Forces lines to the top section)
-          config_order: base.header, base.activity, base.repositories, lines, base.metadata
+          config_order: base.header, base.activity, base.repositories, base.metadata
           
           # DISABLE EVERYTHING ELSE (to keep it clean)
           plugin_notable: no
